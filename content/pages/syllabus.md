@@ -42,12 +42,57 @@ Turkle, Sherry. _Alone Together__: Why We Expect More from Technology and Less f
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and participation | 10% |
-| Weekly discussion questions | 20% |
-| Critical response papers | 40% |
-| Final paper/project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly discussion questions
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Critical response papers
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper/project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Attendance and Participation
 
@@ -76,18 +121,189 @@ In order to receive a passing grade for this course, all assignments must be com
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: What is technology? How do we think about technology in relationship to history? What does a feminist analysis bring to technology studies? | &nbsp; |
-| 2 | History of Gendered Technology, Household Technologies | Guest lecture & demonstration of the technology of textiles by MIT Professor Anne McCants |
-| Special Session | Readings and Paper |  {{< br >}}{{< br >}} First paper due {{< br >}}{{< br >}} This is not a class meeting, however, students are required to post discussion questions related to the readings on the course website. {{< br >}}{{< br >}}  |
-| 3 | Gender and Biomedical Technologies | &nbsp; |
-| 4 | Surgical Interventions | &nbsp; |
-| 5 | Library Session: Doing Research | &nbsp; |
-| 6 | Reproductive Technologies | Second paper due |
-| 7 | Gender, Technology, and Representation of Indigenous Knowledge | Final project topic due |
-| 8 | Ecofeminism, Technology and Development | &nbsp; |
-| 9 | Surveillance, Cell Phones, and the Sex Trade |  {{< br >}}{{< br >}} Guest Speaker: [Mitali Thakor](http://www.mitalithakor.com/), Ph.D. student in MIT's History, Anthropology, and Science, Technology, & Society program, on technology and sex trafficking {{< br >}}{{< br >}} Draft of final paper due {{< br >}}{{< br >}}  |
-| 10 | Alone Together | &nbsp; |
-| 11 | Mobile Technology, Networks, and the "Connected Presence" of Gaming/Telephony | &nbsp; |
-| 12 | Globalization & Technology of Militarization | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: What is technology? How do we think about technology in relationship to history? What does a feminist analysis bring to technology studies?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+History of Gendered Technology, Household Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture & demonstration of the technology of textiles by MIT Professor Anne McCants
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Special Session
+{{< tdclose >}}
+{{< tdopen >}}
+Readings and Paper
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+First paper due
+
+This is not a class meeting, however, students are required to post discussion questions related to the readings on the course website.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Gender and Biomedical Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Surgical Interventions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Library Session: Doing Research
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Reproductive Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Gender, Technology, and Representation of Indigenous Knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+Final project topic due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Ecofeminism, Technology and Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Surveillance, Cell Phones, and the Sex Trade
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest Speaker: [Mitali Thakor](http://www.mitalithakor.com/), Ph.D. student in MIT's History, Anthropology, and Science, Technology, & Society program, on technology and sex trafficking
+
+Draft of final paper due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Alone Together
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Mobile Technology, Networks, and the "Connected Presence" of Gaming/Telephony
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization & Technology of Militarization
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
